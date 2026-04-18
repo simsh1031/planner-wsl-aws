@@ -437,3 +437,9 @@ Planner-aws/
 - [AWS RDS Multi-AZ](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html)
 - [AWS Application Load Balancer](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/)
 - [AWS Secrets Manager](https://docs.aws.amazon.com/secretsmanager/)
+
+---
+
+## 16. 참고
+
+- **Notion**: [프로젝트 문서](https://www.notion.so/wsl-31ae46a3dc7d800eafb6f9b2b94a3130?source=copy_link)
